@@ -1,5 +1,5 @@
 .data
-	str: .asciz "Hello, Andreea and Cristi!\n"
+	str: .asciz "Hello, Cristi!\n"
 .text
 .global main
 	main:
